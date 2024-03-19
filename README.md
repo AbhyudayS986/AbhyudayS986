@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhyudayS986
-- 👀 I’m interested in AI,ML
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning new stuff 
+- 🌱 I’m currently learning Webdev
 - 📫 How to reach me twiter @AbhyudayS986
 - ⚡ Fun fact: ...
 
