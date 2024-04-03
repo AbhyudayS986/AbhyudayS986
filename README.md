@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhyudayS986
 - 👀 I’m interested in learning new stuff 
-- 🌱 I’m currently learning Webdev
+- 🌱 I’m currently learning C++
 - 📫 How to reach me twiter @AbhyudayS986
 - ⚡ Fun fact: ...
 
